@@ -36,7 +36,7 @@ function App() {
         どこでも試験対策
       </Heading>
       <Badge ml={3} mt="-3" borderRadius="full" px="2" colorScheme="teal">
-        第二解剖学・組織
+        臨床心理士資格試験
       </Badge>
       {settingDetail.isSet ? (
         <></>

@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/anywhere-studying-clinical-psychology/static/css/main.2255ca1a.css",
-    "main.js": "/anywhere-studying-clinical-psychology/static/js/main.ebcd3a64.js",
-    "static/media/sampleAnswer.JPG": "/anywhere-studying-clinical-psychology/static/media/sampleAnswer.32d9dfc8ac6cc0bae263.JPG",
-    "static/media/DSC_0188.JPG": "/anywhere-studying-clinical-psychology/static/media/DSC_0188.55c85077c79bcdd6a2b6.JPG",
-    "static/media/sample.png": "/anywhere-studying-clinical-psychology/static/media/sample.a6320935e2373dc71003.png",
+    "main.js": "/anywhere-studying-clinical-psychology/static/js/main.328cbbef.js",
     "index.html": "/anywhere-studying-clinical-psychology/index.html",
     "main.2255ca1a.css.map": "/anywhere-studying-clinical-psychology/static/css/main.2255ca1a.css.map",
-    "main.ebcd3a64.js.map": "/anywhere-studying-clinical-psychology/static/js/main.ebcd3a64.js.map"
+    "main.328cbbef.js.map": "/anywhere-studying-clinical-psychology/static/js/main.328cbbef.js.map"
   },
   "entrypoints": [
     "static/css/main.2255ca1a.css",
-    "static/js/main.ebcd3a64.js"
+    "static/js/main.328cbbef.js"
   ]
 }
