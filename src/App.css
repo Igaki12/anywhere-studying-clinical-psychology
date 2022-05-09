@@ -2,7 +2,41 @@
   text-align: center;
 }
 
-.App-logo {
+/* CSSアニメーションの指定 */
+.Headline1{
+  animation: SlideIn 1.6s;
+}
+
+/* CSSアニメーションの設定 */
+@keyframes SlideIn {
+  0% {
+    opacity: 0;/*初期状態では透明に*/
+    transform: translateX(64px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+/* CSSアニメーションの指定 */
+.DownSlideIn{
+  animation: SlideIn 1.0s;
+}
+
+/* CSSアニメーションの設定 */
+@keyframes SlideIn {
+  0% {
+    opacity: 0;/*初期状態では透明に*/
+    transform: translateY(-16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +69,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
