@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/anywhere-studying-clinical-psychology/static/css/main.2255ca1a.css",
-    "main.js": "/anywhere-studying-clinical-psychology/static/js/main.ca929fef.js",
+    "main.js": "/anywhere-studying-clinical-psychology/static/js/main.39c109e6.js",
     "index.html": "/anywhere-studying-clinical-psychology/index.html",
     "main.2255ca1a.css.map": "/anywhere-studying-clinical-psychology/static/css/main.2255ca1a.css.map",
-    "main.ca929fef.js.map": "/anywhere-studying-clinical-psychology/static/js/main.ca929fef.js.map"
+    "main.39c109e6.js.map": "/anywhere-studying-clinical-psychology/static/js/main.39c109e6.js.map"
   },
   "entrypoints": [
     "static/css/main.2255ca1a.css",
-    "static/js/main.ca929fef.js"
+    "static/js/main.39c109e6.js"
   ]
 }

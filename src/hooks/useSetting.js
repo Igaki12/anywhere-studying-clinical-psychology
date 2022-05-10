@@ -6,7 +6,7 @@ export const useSetting = () => {
     isSet: false,
     mode: 'training',
     questionOrder: 'ascend',
-    questionRange: ['2020本', '2018本'],
+    questionRange: ['神経心理学検査', 'パーソナリティ・健康検査'],
     wordFilter: [],
   })
   const showSettingDetail = () => {

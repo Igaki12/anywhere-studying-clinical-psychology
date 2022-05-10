@@ -114,6 +114,168 @@ export const useQuestionList = () => {
         },
       ],
     },
+    {
+      groupTag: 'エリクソンのライフサイクル（表）',
+      groupContents: [
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '乳児期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：基本的信頼　失調的：基本的不信　基本的強さ（徳）：希望',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '幼児前期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：自律性　失調的：恥・疑惑　基本的強さ（徳）：意志',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '幼児後期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：自主性　失調的：罪悪感　基本的強さ（徳）：目的',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '学童期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：勤勉性　失調的：劣等感　基本的強さ（徳）：適格',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '青年期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：同一性達成　失調的：同一性混乱　基本的強さ（徳）：忠誠',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '成人期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：親密　失調的：孤立　基本的強さ（徳）：愛',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '中年期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：生殖　失調的：停滞　基本的強さ（徳）：世話',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '老年期の心理社会的危機（調和的・失調的）・基本的強さ（徳）は？',
+          answerImg: [],
+          answer:
+            '（心理社会的危機）調和的：統合　失調的：絶望　基本的強さ（徳）：英知',
+          commentary: '',
+        },
+      ],
+    },
+    {
+      groupTag: '主な知能検査・発達検査の対象年齢一覧(表)',
+      groupContents: [
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: 'WPPSIの対象年齢は？',
+          answerImg: [],
+          answer: '2歳6か月～7歳3か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: 'WISCの対象年齢は？',
+          answerImg: [],
+          answer: '5歳0か月～16歳11か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: 'WAISの対象年齢は？',
+          answerImg: [],
+          answer: '16歳0か月～90歳11か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: '鈴木ビネー知能検査の対象年齢は？',
+          answerImg: [],
+          answer: '2歳0か月～18歳11か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: '田中ビネー知能検査の対象年齢は？',
+          answerImg: [],
+          answer: '2歳0か月～成人',
+          commentary: '',
+        },
+        {
+          detailInfo: '知能検査',
+          questionImg: [],
+          questionSentence: 'KABC-2の対象年齢は？',
+          answerImg: [],
+          answer: '2歳6か月～18歳11か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '発達検査',
+          questionImg: [],
+          questionSentence: '新版K式発達検査の対象年齢は？',
+          answerImg: [],
+          answer: '0歳3か月～成人',
+          commentary: '',
+        },
+        {
+          detailInfo: '発達検査',
+          questionImg: [],
+          questionSentence: '遠城寺式乳幼児分析的発達検査の対象年齢は？',
+          answerImg: [],
+          answer: '0歳～4歳7,8か月',
+          commentary: '',
+        },
+        {
+          detailInfo: '発達検査',
+          questionImg: [],
+          questionSentence: '津守式乳幼児精神発達検査表の対象年齢は？',
+          answerImg: [],
+          answer: '0歳～7歳',
+          commentary: '',
+        },
+      ],
+    },
   ])
   const showQuestionList = () => {
     return questionList
