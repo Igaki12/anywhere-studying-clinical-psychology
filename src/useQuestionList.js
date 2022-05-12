@@ -7,6 +7,98 @@ export const useQuestionList = () => {
   const [questionList, setQuestionList] = useState([
     // ここに問題のリストを記述(選択式の場合は[0]に正解択をいれた配列をつくる)
     {
+      groupTag: '精神状態に対応する主な心理検査(表)',
+      groupContents: [
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：BDI-2,SDS,CES-D　面接式：HAM-D,MADRS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: 'うつ症状',
+          commentary: 'D=Depression(抑うつ）',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：CAS,MAS,STAI　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '不安症状',
+          commentary: 'A=Anxiety(不安)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence: '面接式：PANSS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '統合失調症',
+          commentary: 'PANS=positive and negative syndrome(陽性症状・陰性症状)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence: '面接式：YMRS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '双極性障害',
+          commentary: 'M=Mania(躁)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：(Y-BOCS)　面接式：Y-BOCS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '強迫性障害',
+          commentary: 'OC=Obsessive Compulsive(強迫)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：(PDSS)　面接式：PDSS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: 'パニック障害',
+          commentary: 'PD=Panic Disorder(パニック症)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：(LSAS-J)　面接式：LSAS-J　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '社交不安障害',
+          commentary: 'SA=Social Anxiety(社交不安)',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：IES-R　面接式：CAPS　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: 'PTSD',
+          commentary: '',
+        },
+        {
+          detailInfo: '',
+          questionImg: [],
+          questionSentence:
+            '自己記入式：POMS,CMI,GHQ　に対応する精神症状・状態は？',
+          answerImg: [],
+          answer: '総合的健康状態',
+          commentary: '',
+        },
+        // {
+        //   detailInfo: '',
+        //   questionImg: [],
+        //   questionSentence: '自己記入式：BDI-2,SDS,CES-D　面接式：HAM-D,MADRS　に対応する精神症状・状態は？',
+        //   answerImg: [],
+        //   answer: '',
+        //   commentary: '',
+        // },
+      ],
+    },
+    {
       groupTag: '神経心理学検査',
       groupContents: [
         {
